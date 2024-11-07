@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ADSO II JESUS
 
 ### Hoja-de-Vida Jesus Eduardo Pacheco Barrios
@@ -37,3 +38,6 @@ Yaridis Marcela Martinez
 Jose Eduardo Ropero
 - **Numero Telefonico**
 322-465-1248
+=======
+# Hoja-de-Vida05
+>>>>>>> parent of 74c8a42 (Update README.md)
