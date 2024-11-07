@@ -1,13 +1,13 @@
 # ADSO II JESUS
 
-###Hoja-de-Vida05
+### Hoja-de-Vida Jesus Eduardo Pacheco Barrios
 
 ## Datos personales
 
 - **Nombre:** Jesus Eduardo Pacheco Barrios
-- **Direccion:** Diagonal
+- **Direccion:** Diagonal 7 Calle 57 - 4f
 -**Numero Telefonico** 318-364-2035
--**Correo Elctronico**
+-**Correo Elctronico** pachecobarrios7@gmail.com
 
 
 ## Quien soy
@@ -26,4 +26,14 @@ Institucion Educativa Victor Zuburia
 - Responsable
 - Comprometido
 
-## 
+## Referencias
+
+- **Nombre y Apellido**
+Yaridis Marcela Martinez 
+- **Numero Telefonico**
+324-675-3452
+
+- **Nombre y Apellido**
+Jose Eduardo Ropero
+- **Numero Telefonico**
+322-465-1248
